@@ -121,7 +121,7 @@ class CategoryCard(ctk.CTkFrame):
             self,
             width=48,
             height=48,
-            fg_color=cat.color + "20",  # Semi-transparent
+            fg_color=cat.color,
             corner_radius=RADIUS["md"],
         )
         icon_frame.grid(row=0, column=0, rowspan=2, padx=PADDING["lg"], pady=PADDING["lg"])
