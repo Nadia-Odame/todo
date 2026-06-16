@@ -1,4 +1,6 @@
-customtkinter>=5.2.0
-tkcalendar>=1.6.1
-Pillow>=10.0.0
-plyer>=2.1.0
+customtkinter==5.2.1
+tkcalendar==1.6.2
+Pillow==10.1.0
+plyer==2.1.0
+pyttsx3==2.90
+sleepydog==0.1.4
